@@ -52,37 +52,68 @@ Each folder contains Python programs related to that specific concept.
 
 Inside 01_basics/:
 
-File	Description
+File	        Description
+
 01_myself.py	-Basic introduction program using variables, data types, and print statements
+
 02_calculation.py	-Simple arithmetic operations with variables and inputs
+
 	
 
 Inside 02_operators/:
 
-File	Description
+File	        Description
+
 01_my_salary_calculation.py	-Calculates salary, bonus, expenses, savings using arithmetic and assignment operators
+
 02_my_performance_check.py	-Checks performance and eligibility using comparison and logical operators
+
 03_my_device_settings.py	-Demonstrates bitwise operations with device settings
+
 04_my_profile_check.py	-Demonstrates membership and identity operators
 
 Inside 03_control_flow/:
 
-File	Description
+File	        Description
+
 01_if_condition.py	-Checks login with correct password using if statement
+
 02_if_else_condition.py	-Determines driving eligibility using if-else statement
+
 03_if_elif_else_condition.py	-Assigns grades based on marks using if-elif-else
+
 04_nested_conditions.py	-Checks job eligibility with multiple criteria using nested if
+
 05_shorthand_condition.py	-Quick eligibility check using short-hand if-else
 
 Inside 04_loops/:
 
-File	Description
+File	        Description
+
 01_daily_study_tracker.py	-Tracks weekly study hours with input validation, calculates total
+
 02_password_retry.py	-Login system that keeps asking for password until correct
+
 03_marks_analysis.py	-Counts how many subjects passed from 5 subjects
+
 04_attendance_check.py	-Records attendance with validation (0–100%) and skips low attendance using pass
+
 05_study_hours_table.py	-Prints study hours for 5 subjects/day with validation per subject and total daily hours ≤ 24
+
 06_subject_search.py	-Searches for "Python" in a list of subjects, demonstrates loop else
+
+
+Inside 05_strings/:
+
+File            Description
+
+01_user_profile.py	-Demonstrates string functions with user name, age, and email; includes basic validation using string methods (strip(), split(), isalpha(), isdigit())
+
+02_word_counter.py	-Takes a sentence from the user, splits into words, counts them, replaces words, joins with separators, and finds a specific word; demonstrates split(), join(), replace(), find()
+
+03_greeting_message.py	-Displays formatted greeting using f-string, format(), and escape characters (\n, \t, \") with simple input validation for name, age, and course
+
+04_password_validator.py	-Validates password for minimum length, uppercase, number, special character, and no spaces; demonstrates strip(), upper(), lower(), replace()
 
 
 More programs will be added as I progress.
