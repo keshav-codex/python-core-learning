@@ -74,6 +74,16 @@ File	Description
 04_nested_conditions.py	-Checks job eligibility with multiple criteria using nested if
 05_shorthand_condition.py	-Quick eligibility check using short-hand if-else
 
+Inside 04_loops/:
+
+File	Description
+01_daily_study_tracker.py	-Tracks weekly study hours with input validation, calculates total
+02_password_retry.py	-Login system that keeps asking for password until correct
+03_marks_analysis.py	-Counts how many subjects passed from 5 subjects
+04_attendance_check.py	-Records attendance with validation (0–100%) and skips low attendance using pass
+05_study_hours_table.py	-Prints study hours for 5 subjects/day with validation per subject and total daily hours ≤ 24
+06_subject_search.py	-Searches for "Python" in a list of subjects, demonstrates loop else
+
 
 More programs will be added as I progress.
 ---
