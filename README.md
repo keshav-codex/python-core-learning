@@ -46,15 +46,34 @@ Each folder contains Python programs related to that specific concept.
 
 ---
 
-## 💻 Sample Programs
+## Sample Programs
 
-Inside `01_basics/`:
+Inside 01_basics/:
 
-* `01_myself.py` → Basic introduction program
-* `02_calculation.py` → Simple arithmetic operations
+File	Description
+01_myself.py	-Basic introduction program using variables, data types, and print statements
+02_calculation.py	-Simple arithmetic operations with variables and inputs
+	
+
+Inside 02_operators/:
+
+File	Description
+01_my_salary_calculation.py	-Calculates salary, bonus, expenses, savings using arithmetic and assignment operators
+02_my_performance_check.py	-Checks performance and eligibility using comparison and logical operators
+03_my_device_settings.py	-Demonstrates bitwise operations with device settings
+04_my_profile_check.py	-Demonstrates membership and identity operators
+
+Inside 03_control_flow/:
+
+File	Description
+01_if_condition.py	-Checks login with correct password using if statement
+02_if_else_condition.py	-Determines driving eligibility using if-else statement
+03_if_elif_else_condition.py	-Assigns grades based on marks using if-elif-else
+04_nested_conditions.py	-Checks job eligibility with multiple criteria using nested if
+05_shorthand_condition.py	-Quick eligibility check using short-hand if-else
+
 
 More programs will be added as I progress.
-
 ---
 
 ## 🎯 Learning Goals
