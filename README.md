@@ -23,10 +23,11 @@ python-core-learning/
 ├── 02_operators/
 ├── 03_control_flow/
 ├── 04_loops/
-├── 05_functions/
-├── 06_strings/
-├── 07_file_handling/
-└── 08_exceptions/
+├── 05_strings/
+├── 06_functions/
+├── 07_data_structures/
+└── 08_exception_handling/
+└── 09_file_handling/
 ```
 
 Each folder contains Python programs related to that specific concept.
@@ -39,10 +40,11 @@ Each folder contains Python programs related to that specific concept.
 * ✅ Operators
 * ✅ Conditional Statements (if-else)
 * ✅ Loops (for, while)
-* ✅ Functions
 * ✅ Strings
-* ✅ File Handling
+* ✅ Functions
+* ✅ Data Structure
 * ✅ Exception Handling
+* ✅ File Handling
 
 ---
 
@@ -108,8 +110,6 @@ GitHub: https://github.com/keshav-codex
 
 ## ⭐ Future Plans
 
-* Add Object-Oriented Programming (OOP)
-* Add mini projects
 * Add notes for each topic
 * Improve code quality and structure
 
