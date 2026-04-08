@@ -1,16 +1,9 @@
 # 🐍 Python Core Learning
 
-This repository contains my structured journey of learning **Core Python**, starting from basics to advanced concepts.
-The goal of this repository is to build a strong foundation for **problem solving, backend development, and Django**.
+This repository contains my **Python core learning journey**.
+All topics are organized step-by-step with simple programs.
 
----
-
-## 📌 About This Repository
-
-* Covers fundamental to intermediate Python concepts
-* Organized topic-wise for easy understanding
-* Contains hands-on practice programs
-* Designed for consistency and long-term learning
+The goal is to build a strong base for **problem solving, backend, and Django development**.
 
 ---
 
@@ -18,144 +11,157 @@ The goal of this repository is to build a strong foundation for **problem solvin
 
 ```
 python-core-learning/
-│
-├── 01_basics/
-├── 02_operators/
-├── 03_control_flow/
-├── 04_loops/
-├── 05_strings/
-├── 06_functions/
-├── 07_data_structures/
-└── 08_exception_handling/
-└── 09_file_handling/
+ ├── 01_basics/
+ ├── 02_operators/
+ ├── 03_control_flow/
+ ├── 04_loops/
+ ├── 05_strings/
+ ├── 06_functions/
+ ├── 07_datastructure/
+ └── 08_exception_handling/
 ```
 
-Each folder contains Python programs related to that specific concept.
+---
+
+## 📘 Topics & Simple Description
 
 ---
 
-## 🚀 Topics Covered
+### 🔹 01_basics
 
-* ✅ Variables & Data Types
-* ✅ Operators
-* ✅ Conditional Statements (if-else)
-* ✅ Loops (for, while)
-* ✅ Strings
-* ✅ Functions
-* ✅ Data Structure
-* ✅ Exception Handling
-* ✅ File Handling
+Basic Python programs.
 
----
+* Variables and data types
+* Print statements
+* Simple input/output
 
-## Sample Programs
+📌 Example:
 
-Inside 01_basics/:
-
-File	        Description
-
-01_myself.py	-Basic introduction program using variables, data types, and print statements
-
-02_calculation.py	-Simple arithmetic operations with variables and inputs
-
-	
-
-Inside 02_operators/:
-
-File	        Description
-
-01_my_salary_calculation.py	-Calculates salary, bonus, expenses, savings using arithmetic and assignment operators
-
-02_my_performance_check.py	-Checks performance and eligibility using comparison and logical operators
-
-03_my_device_settings.py	-Demonstrates bitwise operations with device settings
-
-04_my_profile_check.py	-Demonstrates membership and identity operators
-
-Inside 03_control_flow/:
-
-File	        Description
-
-01_if_condition.py	-Checks login with correct password using if statement
-
-02_if_else_condition.py	-Determines driving eligibility using if-else statement
-
-03_if_elif_else_condition.py	-Assigns grades based on marks using if-elif-else
-
-04_nested_conditions.py	-Checks job eligibility with multiple criteria using nested if
-
-05_shorthand_condition.py	-Quick eligibility check using short-hand if-else
-
-Inside 04_loops/:
-
-File	        Description
-
-01_daily_study_tracker.py	-Tracks weekly study hours with input validation, calculates total
-
-02_password_retry.py	-Login system that keeps asking for password until correct
-
-03_marks_analysis.py	-Counts how many subjects passed from 5 subjects
-
-04_attendance_check.py	-Records attendance with validation (0–100%) and skips low attendance using pass
-
-05_study_hours_table.py	-Prints study hours for 5 subjects/day with validation per subject and total daily hours ≤ 24
-
-06_subject_search.py	-Searches for "Python" in a list of subjects, demonstrates loop else
-
-
-Inside 05_strings/:
-
-File            Description
-
-01_user_profile.py	-Demonstrates string functions with user name, age, and email; includes basic validation using string methods (strip(), split(), isalpha(), isdigit())
-
-02_word_counter.py	-Takes a sentence from the user, splits into words, counts them, replaces words, joins with separators, and finds a specific word; demonstrates split(), join(), replace(), find()
-
-03_greeting_message.py	-Displays formatted greeting using f-string, format(), and escape characters (\n, \t, \") with simple input validation for name, age, and course
-
-04_password_validator.py	-Validates password for minimum length, uppercase, number, special character, and no spaces; demonstrates strip(), upper(), lower(), replace()
-
-
-More programs will be added as I progress.
----
-
-## 🎯 Learning Goals
-
-* Build strong Python fundamentals
-* Improve coding logic and problem-solving skills
-* Prepare for **Data Structures & Algorithms**
-* Transition into **Django Web Development**
+* Writing my introduction
+* Simple calculations
 
 ---
 
-## 📈 Progress
+### 🔹 02_operators
 
-This repository is actively maintained and updated regularly as I continue learning.
+Different types of operators.
 
----
+* Arithmetic (+, -, *, /)
+* Comparison (>, <, ==)
+* Logical (and, or, not)
 
-## 🛠️ Tools & Technologies
+📌 Example:
 
-* Python 3
-* VS Code
-* Git & GitHub
-
----
-
-## 👨‍💻 Author
-
-**Keshav**
-GitHub: https://github.com/keshav-codex
+* Salary calculation
+* Discount and comparison
 
 ---
 
-## ⭐ Future Plans
+### 🔹 03_control_flow
 
-* Add notes for each topic
-* Improve code quality and structure
+Decision making in Python.
+
+* if
+* if-else
+* if-elif-else
+
+📌 Example:
+
+* Pass or fail
+* Eligibility check
 
 ---
 
-### 📌 Note
+### 🔹 04_loops
 
-This repository is part of my learning journey. Feedback and suggestions are always welcome!
+Repeat tasks using loops.
+
+* for loop
+* while loop
+* break, continue
+* nested loops
+
+📌 Example:
+
+* Study hours tracker
+* Attendance check
+
+---
+
+### 🔹 05_strings
+
+Working with text data.
+
+* String methods
+* Formatting
+* Validation
+
+📌 Example:
+
+* Name and email formatting
+* Text cleaning
+
+---
+
+### 🔹 06_functions
+
+Reusable code using functions.
+
+* Function creation
+* Parameters
+* Return values
+
+📌 Example:
+
+* Marks calculator
+* Interest calculator
+
+---
+
+### 🔹 07_datastructure
+
+Store and manage data.
+
+* List
+* Tuple
+* Set
+* Dictionary
+
+📌 Example:
+
+* Shopping cart
+* Student marks
+* User data
+
+---
+
+### 🔹 08_exception_handling
+
+Handle errors in programs.
+
+* try, except
+* else, finally
+
+📌 Example:
+
+* Safe division
+* Login validation
+
+---
+
+## 🎯 Learning Goal
+
+* Understand Python basics clearly
+* Write clean and simple programs
+* Build strong logic for problem solving
+* Prepare for backend and Django
+
+---
+
+## 🚀 Next Plan
+
+* File Handling
+* OOP (Object-Oriented Programming)
+* Django Web Development
+
+---
